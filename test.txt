@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 805E-D74C
-
- Directory of C:\Users\VirtualDusk\Desktop\MyProject
-
-01/28/2020  03:07 PM    <DIR>          .
-01/28/2020  03:07 PM    <DIR>          ..
-01/28/2020  03:07 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  421,199,716,352 bytes free
+ change
